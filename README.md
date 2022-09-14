@@ -25,15 +25,15 @@ Each `puppy` has the following attributes:
 - if you wish to simulate the app locally:
     1) create a .env file inside the 'disc' folder
     2) inside add:
-        1) DB_CONN_STRING="<your connection string>"
-        2) DB_NAME="<your database name"
-        3) COLLECTION_NAME="<your collection name>"
+        1) DB_CONN_STRING="your connection string"
+        2) DB_NAME="your database name"
+        3) COLLECTION_NAME="your collection name"
     3) please note the above details should come from a MongoDB database;
              -for more information on this, please check https://www.mongodb.com/
     4) your database should be populated with objects following the 'puppy' schema:
-            - id
-            - breed
-            - name
-            - birth date
+            1) id
+            2) breed
+            3) name
+            4) birth date
     5) ENJOY!
 
