@@ -1,5 +1,3 @@
-# &lt;/salt&gt;
-
 ## Puppies API with Typescript
 
 In this exercise the goal is to get familiar with Typescript and how to use it in Node.js.
